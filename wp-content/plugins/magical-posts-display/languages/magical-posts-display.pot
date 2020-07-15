@@ -1,0 +1,905 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Magical Posts Display\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-01 02:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.4; wp-5.2.6"
+
+#. 1: list of categories.
+#: includes/mp-posts-meta.php:64
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: includes/mp-posts-meta.php:111
+msgid "% "
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/mp-posts-meta.php:61
+msgid ", "
+msgstr ""
+
+#: includes/mp-posts-meta.php:111
+msgid "1 "
+msgstr ""
+
+#. %s: post title
+#: includes/mp-posts-meta.php:102
+#, php-format
+msgid "<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: admin/mp-display-post.php:21 admin/mp-display-post.php:22
+msgid "Add New Masical posts"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:224
+msgid "Add read more button text."
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:73
+msgid ""
+"Add slider title. Must fill the field. Sliders can not be seen if it is "
+"empty."
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:27
+#: includes/blocks/posts-carousel.php:27 includes/blocks/posts-grid.php:27
+#: includes/blocks/posts-list-card.php:27
+msgid "All category"
+msgstr ""
+
+#: admin/mp-display-post.php:26
+msgid "All Masical posts"
+msgstr ""
+
+#: admin/mp-display-column-set.php:22
+msgid "All Posts"
+msgstr ""
+
+#: admin/mp-display-column-set.php:65
+msgid "All posts added"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:24
+msgid "All setup for magical posts display"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:100
+msgid "Auto Height"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:94
+msgid "autoplay"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:96
+msgid "Autoplay delay time"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:175 includes/blocks/posts-grid.php:145
+#: includes/blocks/posts-list-card.php:150
+msgid "Button style"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:66 includes/blocks/posts-grid.php:73
+msgid "Button Text"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:223 includes/blocks/posts-list-card.php:72
+msgid "Button text"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:47 includes/blocks/posts-grid.php:47
+#: includes/blocks/posts-list-card.php:47
+msgid "card"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:130
+msgid "Card Style"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:119
+msgid "Carouesl Item Show Hide"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:93
+msgid "Carouesl options"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:47
+msgid "carousel"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:80
+msgid "Category"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:66
+#: includes/blocks/posts-list-card.php:66
+msgid "Center"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:139 includes/blocks/posts-grid.php:109
+#: includes/blocks/posts-list-card.php:114
+msgid "Content background color"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:137 includes/blocks/posts-grid.php:107
+#: includes/blocks/posts-list-card.php:112
+msgid "Content Padding"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:129 includes/blocks/posts-grid.php:105
+#: includes/blocks/posts-list-card.php:110
+msgid "Content Style"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:185 includes/blocks/posts-grid.php:155
+#: includes/blocks/posts-list-card.php:160
+msgid "Danger"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:183 includes/blocks/posts-grid.php:153
+#: includes/blocks/posts-list-card.php:158
+msgid "Dark"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:134
+msgid "Day Background color"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:136
+msgid "Day text color"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:162 includes/blocks/posts-grid.php:132
+#: includes/blocks/posts-list-card.php:137
+msgid "Description bottom space"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:164 includes/blocks/posts-grid.php:134
+#: includes/blocks/posts-list-card.php:139
+msgid "Description color"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:160 includes/blocks/posts-grid.php:130
+#: includes/blocks/posts-list-card.php:135
+msgid "Description size"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:158 includes/blocks/posts-grid.php:128
+#: includes/blocks/posts-list-card.php:133
+msgid "Description Style"
+msgstr ""
+
+#: admin/mp-display-post.php:24
+msgid "Edit Masical posts"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:130
+msgid "Font size"
+msgstr ""
+
+#: includes/blocks/posts-grid.php:68
+msgid "Four Column"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:102
+msgid "Grab Cursor"
+msgstr ""
+
+#: includes/blocks/posts-grid.php:47
+msgid "grid"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:74 includes/blocks/posts-grid.php:87
+msgid "Grid Card (600*900)"
+msgstr ""
+
+#: includes/blocks/posts-grid.php:63
+msgid "Grid Column"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:184
+msgid "Grid column"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:76
+msgid "Hide Highlighted date or image"
+msgstr ""
+
+#: includes/blocks/posts-grid.php:80 includes/blocks/posts-list-card.php:79
+msgid "Hide image"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:129
+msgid "Highlighted meta Style"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wpthemespace.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/nalam-1"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:118
+#: includes/blocks/posts-carousel.php:147 includes/blocks/posts-grid.php:117
+#: includes/blocks/posts-list-card.php:122
+msgid "Image bottom space"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:116
+#: includes/blocks/posts-carousel.php:145 includes/blocks/posts-grid.php:115
+#: includes/blocks/posts-list-card.php:120
+msgid "Image height"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:79
+msgid "Image or Highlighted date Position"
+msgstr ""
+
+#: includes/blocks/posts-list-card.php:82
+msgid "Image Position"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:85
+#: includes/blocks/posts-carousel.php:70 includes/blocks/posts-grid.php:83
+#: includes/blocks/posts-list-card.php:88
+msgid "Image size"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:115
+#: includes/blocks/posts-carousel.php:142 includes/blocks/posts-grid.php:112
+#: includes/blocks/posts-list-card.php:117
+msgid "Image Style"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:181 includes/blocks/posts-grid.php:151
+#: includes/blocks/posts-list-card.php:156
+msgid "Info"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:107
+msgid "Item Per View For Big Screen"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:111
+msgid "Item Per View For Medium Screen"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:115
+msgid "Item Per View For Small Screen"
+msgstr ""
+
+#: admin/extra-function.php:33
+msgid "items"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:92
+#: includes/blocks/posts-carousel.php:77 includes/blocks/posts-grid.php:90
+#: includes/blocks/posts-list-card.php:95
+msgid "Large ( 1024*1024)"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:78 includes/blocks/awesome-posts-lists.php:53
+#: includes/blocks/posts-carousel.php:53 includes/blocks/posts-grid.php:53
+#: includes/blocks/posts-list-card.php:53
+msgid "Latest Posts"
+msgstr ""
+
+#: admin/mp-display-column-set.php:74
+msgid "Latest posts"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:65
+#: includes/blocks/awesome-posts-lists.php:81
+#: includes/blocks/posts-list-card.php:65
+#: includes/blocks/posts-list-card.php:84
+msgid "Left"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:182 includes/blocks/posts-grid.php:152
+#: includes/blocks/posts-list-card.php:157
+msgid "Light"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:186 includes/blocks/posts-grid.php:156
+#: includes/blocks/posts-list-card.php:161
+msgid "Link"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:47
+#: includes/blocks/posts-list-card.php:47
+msgid "List"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:108
+msgid "List background color"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:90
+#: includes/blocks/posts-carousel.php:75 includes/blocks/posts-grid.php:88
+#: includes/blocks/posts-list-card.php:93
+msgid "List card (600*700)"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:89
+#: includes/blocks/posts-list-card.php:92
+msgid "List Card (600*900)"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/mp-posts-meta.php:79
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:112
+msgid "List items background color"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:110
+msgid "List items Bottom margin"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:106
+msgid "List Padding"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:104
+msgid "List Style"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:98
+msgid "Loop"
+msgstr ""
+
+#. Publish box date format, see http://php.net/date
+#: admin/mp-display-update-massage.php:39
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:44
+msgid "Magical Awesome Posts Lists"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:45
+#: includes/blocks/posts-carousel.php:45 includes/blocks/posts-grid.php:45
+#: includes/blocks/posts-list-card.php:45
+#: includes/widgets/recent-posts-widget.php:30
+msgid "Magical Posts"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:44
+msgid "Magical Posts Carouesl"
+msgstr ""
+
+#. Name of the plugin
+msgid "Magical Posts Display"
+msgstr ""
+
+#: includes/blocks/posts-grid.php:44
+msgid "Magical Posts Grid"
+msgstr ""
+
+#: includes/blocks/posts-list-card.php:44
+msgid "Magical Posts List card"
+msgstr ""
+
+#: admin/mp-display-post.php:19 admin/mp-display-post.php:20
+msgid "Masical posts"
+msgstr ""
+
+#: admin/mp-display-post.php:17 admin/mp-display-post.php:18
+msgid "masical posts"
+msgstr ""
+
+#: admin/mp-display-post.php:75
+msgid "Masical posts name"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:88
+#: includes/blocks/posts-carousel.php:73 includes/blocks/posts-grid.php:86
+#: includes/blocks/posts-list-card.php:91
+msgid "Medium (300*300)"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:91
+#: includes/blocks/posts-carousel.php:76 includes/blocks/posts-grid.php:89
+#: includes/blocks/posts-list-card.php:94
+msgid "Medium large (768*0)"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:150
+#: includes/blocks/posts-carousel.php:171 includes/blocks/posts-grid.php:141
+#: includes/blocks/posts-list-card.php:146
+msgid "Meta color"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:148
+#: includes/blocks/posts-carousel.php:169 includes/blocks/posts-grid.php:139
+#: includes/blocks/posts-list-card.php:144
+msgid "Meta size"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:147
+#: includes/blocks/posts-carousel.php:167 includes/blocks/posts-grid.php:137
+#: includes/blocks/posts-list-card.php:142
+msgid "Meta Style"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:138
+msgid "Month Background color"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:140
+msgid "Month text color"
+msgstr ""
+
+#: admin/mp-display-post.php:23
+msgid "New Masical posts"
+msgstr ""
+
+#: admin/mp-display-post.php:29
+msgid "No Masical posts found in Trash."
+msgstr ""
+
+#: admin/mp-display-post.php:28
+msgid "No Masical posts found."
+msgstr ""
+
+#: includes/mp-display-shortcode.php:57
+#: includes/blocks/awesome-posts-lists.php:413
+#: includes/blocks/posts-carousel.php:429 includes/blocks/posts-grid.php:368
+#: includes/blocks/posts-list-card.php:380 includes/card-post/grid-post.php:137
+#: includes/card-post/list-post.php:135
+msgid "No post found!"
+msgstr ""
+
+#: admin/mp-display-column-set.php:82
+msgid "No post type selected"
+msgstr ""
+
+#. Author of the plugin
+msgid "Noor alam"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:79 includes/blocks/awesome-posts-lists.php:54
+#: includes/blocks/posts-carousel.php:54 includes/blocks/posts-grid.php:54
+#: includes/blocks/posts-list-card.php:54
+msgid "Oldest Posts"
+msgstr ""
+
+#: admin/mp-display-column-set.php:76
+msgid "Oldest posts"
+msgstr ""
+
+#: includes/blocks/posts-grid.php:65
+msgid "One Column"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:93
+#: includes/blocks/posts-carousel.php:78 includes/blocks/posts-grid.php:91
+#: includes/blocks/posts-list-card.php:96
+msgid "Orginal size"
+msgstr ""
+
+#: admin/mp-display-post.php:27
+msgid "Parent Masical posts:"
+msgstr ""
+
+#: includes/widgets/recent-posts-widget.php:181
+msgid "Popular post"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:47
+#: includes/blocks/posts-carousel.php:47 includes/blocks/posts-grid.php:47
+#: includes/blocks/posts-list-card.php:47
+msgid "post"
+msgstr ""
+
+#. %s: post author.
+#: includes/mp-posts-meta.php:45
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:154
+msgid "Post card type"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:50
+#: includes/blocks/posts-carousel.php:50 includes/blocks/posts-grid.php:50
+#: includes/blocks/posts-list-card.php:50
+msgid "Post content"
+msgstr ""
+
+#. %s: post date.
+#: includes/mp-posts-meta.php:29
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:97
+#: includes/blocks/posts-carousel.php:82 includes/blocks/posts-grid.php:95
+#: includes/blocks/posts-list-card.php:100
+msgid "Post Meta"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:34
+msgid "Post meta settings"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:69 includes/blocks/posts-grid.php:76
+#: includes/blocks/posts-list-card.php:75
+msgid "Posts image"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:71
+msgid "Posts image or Highlighted date"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:114 includes/blocks/awesome-posts-lists.php:61
+#: includes/blocks/posts-carousel.php:61 includes/blocks/posts-grid.php:61
+#: includes/blocks/posts-list-card.php:61
+msgid "Posts number"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:72
+msgid "Posts Show By"
+msgstr ""
+
+#: includes/widgets/recent-posts-widget.php:175
+msgid "Posts show by:"
+msgstr ""
+
+#: admin/mp-display-column-set.php:35
+msgid "Posts source"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:178 includes/blocks/posts-grid.php:148
+#: includes/blocks/posts-list-card.php:153
+msgid "Primary"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:55
+#: includes/blocks/posts-carousel.php:55 includes/blocks/posts-grid.php:55
+#: includes/blocks/posts-list-card.php:55
+msgid "Random Posts"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:227 includes/blocks/posts-carousel.php:67
+#: includes/blocks/posts-carousel.php:201 includes/blocks/posts-grid.php:74
+#: includes/blocks/posts-grid.php:173 includes/blocks/posts-list-card.php:73
+#: includes/blocks/posts-list-card.php:179 includes/card-post/grid-post.php:19
+#: includes/card-post/list-post.php:19
+msgid "Read More"
+msgstr ""
+
+#: includes/widgets/recent-posts-widget.php:178
+msgid "Recent post"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:67
+#: includes/blocks/awesome-posts-lists.php:82
+#: includes/blocks/posts-list-card.php:67
+#: includes/blocks/posts-list-card.php:85
+msgid "Right"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:179 includes/blocks/posts-grid.php:149
+#: includes/blocks/posts-list-card.php:154
+msgid "Secondary"
+msgstr ""
+
+#: admin/extra-function.php:37
+msgid "Select"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:230 includes/blocks/posts-carousel.php:176
+#: includes/blocks/posts-grid.php:146 includes/blocks/posts-list-card.php:151
+msgid "Select button"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:155
+msgid "Select card type"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:86 includes/blocks/awesome-posts-lists.php:58
+#: includes/blocks/posts-carousel.php:58 includes/blocks/posts-grid.php:58
+#: includes/blocks/posts-list-card.php:58
+msgid "Select Category"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:87
+msgid "Select category for display category posts"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:185
+msgid "Select grid column"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:115
+msgid "Select posts number"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:231
+msgid "Select read more button style."
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:100
+msgid "Select tag"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:101
+msgid "Select tag for display tag posts"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:143 includes/blocks/posts-grid.php:113
+#: includes/blocks/posts-list-card.php:118
+msgid "Set 100% image width"
+msgstr ""
+
+#: admin/mp-display-meta-tab.php:30 admin/mp-display-meta-tab.php:67
+#: admin/mp-display-meta-tab.php:259
+msgid "Setup Magical Posts"
+msgstr ""
+
+#: admin/mp-display-column-set.php:33
+msgid "Shortcode"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:100
+#: includes/blocks/posts-carousel.php:85 includes/blocks/posts-grid.php:98
+#: includes/blocks/posts-list-card.php:103
+msgid "Show Author"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:99
+#: includes/blocks/posts-carousel.php:83 includes/blocks/posts-grid.php:96
+#: includes/blocks/posts-list-card.php:101
+msgid "Show Category"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:89 includes/blocks/posts-grid.php:102
+#: includes/blocks/posts-list-card.php:107
+msgid "Show Comment"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:101
+#: includes/blocks/posts-carousel.php:86 includes/blocks/posts-grid.php:99
+#: includes/blocks/posts-list-card.php:104
+msgid "Show Date"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:124
+msgid "Show Description"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:105
+msgid "Show Dots"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:74
+msgid "Show Highlighted date"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:72
+msgid "Show Highlighted date or image"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:120
+msgid "Show Image"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:75 includes/blocks/posts-grid.php:79
+#: includes/blocks/posts-list-card.php:78
+msgid "Show image"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:98
+msgid "Show list style"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:104
+msgid "Show Nav"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:51
+#: includes/blocks/posts-carousel.php:51 includes/blocks/posts-grid.php:51
+#: includes/blocks/posts-list-card.php:51
+msgid "Show Posts by"
+msgstr ""
+
+#: includes/blocks/posts-grid.php:77 includes/blocks/posts-list-card.php:76
+msgid "Show Posts image"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:88 includes/blocks/posts-grid.php:101
+#: includes/blocks/posts-list-card.php:106
+msgid "Show Tags"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:122
+msgid "Show Title"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show your site posts in a great way."
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:47
+msgid "slider"
+msgstr ""
+
+#: admin/mp-display-update-massage.php:41
+msgid "slider draft updated."
+msgstr ""
+
+#: admin/mp-display-update-massage.php:29
+msgid "slider field deleted."
+msgstr ""
+
+#: admin/mp-display-update-massage.php:28
+msgid "slider field updated. Shortcode is:"
+msgstr ""
+
+#: admin/mp-display-update-massage.php:37
+#, php-format
+msgid "slider item scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: admin/mp-display-update-massage.php:30
+msgid "slider item updated."
+msgstr ""
+
+#: admin/mp-display-update-massage.php:33
+msgid "slider published. Shortcode is:"
+msgstr ""
+
+#. %s: date and time of the revision
+#: admin/mp-display-update-massage.php:32
+#, php-format
+msgid "slider restored to revision from %s"
+msgstr ""
+
+#: admin/mp-display-update-massage.php:34
+msgid "slider saved."
+msgstr ""
+
+#: admin/mp-display-update-massage.php:35
+msgid "slider submitted."
+msgstr ""
+
+#: admin/mp-display-update-massage.php:27
+msgid "slider updated. Shortcode is:"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:109
+msgid "Space Between For Big Screen"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:113
+msgid "Space Between For Medium Screen"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:117
+msgid "Space Between For Small Screen"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:132
+msgid "Style one"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:133
+msgid "Style two"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:180 includes/blocks/posts-grid.php:150
+#: includes/blocks/posts-list-card.php:155
+msgid "Success"
+msgstr ""
+
+#: admin/extra-function.php:31 admin/mp-display-meta-tab.php:81
+msgid "Tag"
+msgstr ""
+
+#. 1: list of tags.
+#: includes/mp-posts-meta.php:82
+#, php-format
+msgid "Tag: %1$s"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:63
+#: includes/blocks/posts-list-card.php:63
+msgid "Text position"
+msgstr ""
+
+#: includes/blocks/posts-grid.php:67
+msgid "Three Column"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:87
+#: includes/blocks/posts-carousel.php:72 includes/blocks/posts-grid.php:85
+#: includes/blocks/posts-list-card.php:90
+msgid "Thumbnail (150*150)"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:124
+#: includes/blocks/posts-carousel.php:153 includes/blocks/posts-grid.php:123
+#: includes/blocks/posts-list-card.php:128
+msgid "Title bottom space"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:126
+#: includes/blocks/posts-carousel.php:155 includes/blocks/posts-grid.php:125
+#: includes/blocks/posts-list-card.php:130
+msgid "Title color"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:122
+#: includes/blocks/posts-carousel.php:151 includes/blocks/posts-grid.php:121
+#: includes/blocks/posts-list-card.php:126
+msgid "Title font size"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:121
+#: includes/blocks/posts-carousel.php:150 includes/blocks/posts-grid.php:120
+#: includes/blocks/posts-list-card.php:125
+msgid "Title Style"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:132
+msgid "Top bottom padding"
+msgstr ""
+
+#: admin/mp-display-column-set.php:34
+msgid "Total posts"
+msgstr ""
+
+#: includes/blocks/posts-grid.php:66
+msgid "Two Column"
+msgstr ""
+
+#: admin/mp-display-post.php:25
+msgid "View Masical posts"
+msgstr ""
+
+#: includes/blocks/posts-carousel.php:184 includes/blocks/posts-grid.php:154
+#: includes/blocks/posts-list-card.php:159
+msgid "Warning"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:142
+msgid "Year Background color"
+msgstr ""
+
+#: includes/blocks/awesome-posts-lists.php:144
+msgid "Year text color"
+msgstr ""
+
+#: admin/mp-display-post.php:34
+msgid "You can create awesome image sliders with by haslider slider."
+msgstr ""
+
+#: includes/widgets/recent-posts-widget.php:27
+msgid ""
+"You can show your site popular posts and recent posts by this Magical Posts "
+"display widget."
+msgstr ""
